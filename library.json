@@ -1,8 +1,24 @@
 {
   "name": "AirControl360",
   "version": "1.0.0",
-  "description": "Gesture control library",
-  "authors": ["Herobrine Sah"],
+  "description": "AirControl360 is a gesture and motion-based control library for Arduino/ESP32 using the MPU6050 sensor.",
+  "keywords": [
+    "AirControl360",
+    "swipeLeft",
+    "sensor",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Herobrine-pixel/AirControl360.git"
+  },
+  "authors": [
+    {
+      "name": "Herobrine Pixel",
+      "email": "ashasah77@gmail.com",
+      "maintainer": true
+    }
+  ],
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms": "*",
+    
 }
